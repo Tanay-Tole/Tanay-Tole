@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tanay-Tole
-- 👀 I’m interested in Robotics and coding
+- 👀 I’m interested in Robotics and coding and AIML
 - 🌱 I’m currently learning understanding general programming language
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me email me at tanay.tole@gmail.com
